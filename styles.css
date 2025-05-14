@@ -1,0 +1,75 @@
+#navbar__logo{
+    background-color:red;
+
+    text-align: center;
+    font-size: large;
+    text-decoration: dotted;
+    text-transform: capitalize;
+}
+a:hover{
+    color:white;
+    background-color: red;
+    
+    
+}
+a:active{
+    color: blue;
+    background-color: red;
+    
+}
+a{
+    border: 2px dashed wheat;
+    padding: 10px 20px;
+    margin: 10px;
+
+}
+input{
+    display: block;
+    margin: 10px auto;
+text-align: center;
+}
+label{
+    color: crimson;
+     display: block;
+    margin: 10px auto;
+text-align: center;
+
+}
+p{
+    color: burlywood;
+    text-indent: 5px;
+    line-height: 1.5; 
+    letter-spacing: 3px;
+    
+    font-size: 20px;
+    font-style: italic;
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+body{
+    text-shadow: dimgray;
+    text-decoration: dashed;
+    background-image:url(../images/footback.jpeg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+h1{
+    text-align: center;
+    text-decoration: wavy;
+    font-style: italic;
+}
+h2{
+    font-style: oblique;
+    color: aqua;
+}
+h3{
+    text-align: start;
+    text-decoration: indigo;
+    font-style: inherit;
+    color: green;
+}
+button{
+    display: block;
+    text-align: center;
+}
